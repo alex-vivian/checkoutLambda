@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.itv.chuckwagon:chuckwagon-jvm_2.12:0.1.4-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.itv.chuckwagon/chuckwagon-jvm_2.12/0.1.4-SNAPSHOT/jars/chuckwagon-jvm_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.itv.chuckwagon/chuckwagon-jvm_2.12/0.1.4-SNAPSHOT/docs/chuckwagon-jvm_2.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.itv.chuckwagon/chuckwagon-jvm_2.12/0.1.4-SNAPSHOT/srcs/chuckwagon-jvm_2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
